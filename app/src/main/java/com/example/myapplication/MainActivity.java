@@ -114,7 +114,7 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(this, R.string.toast_livro_salvo, Toast.LENGTH_SHORT).show();
             editTextTitulo.getText().clear();
             editTextAutor.getText().clear();
-            radioGroupLeitura.check(R.id.radioButtonNaoLido); // Reset para não lido
+            radioGroupLeitura.check(R.id.radioButtonNaoLido);
             atualizarListaDeLivros();
         } else {
             Toast.makeText(this, "Erro ao salvar o livro.", Toast.LENGTH_SHORT).show();
