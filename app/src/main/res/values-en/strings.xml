@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Book Manager</string>
+    <string name="hint_titulo">Title</string>
+    <string name="hint_autor">Author</string>
+    <string name="label_lido">Read</string>
+    <string name="label_nao_lido">Unread</string>
+    <string name="button_salvar">Save Book</string>
+    <string name="label_livros_cadastrados">Registered Books</string>
+    <string-array name="categorias_livros">
+        <item>Fiction</item>
+        <item>Technical</item>
+        <item>Self-Help</item>
+        <item>Others</item>
+    </string-array>
+    <string name="title_activity_editar_livro">Edit Book</string>
+    <string name="button_atualizar">Update</string>
+    <string name="button_cancelar">Cancel</string>
+    <string name="dialog_excluir_titulo">Delete Book</string>
+    <string name="dialog_excluir_mensagem">Are you sure you want to delete this book?</string>
+    <string name="dialog_excluir_sim">Yes</string>
+    <string name="dialog_excluir_nao">No</string>
+    <string name="toast_livro_salvo">Book saved successfully!</string>
+    <string name="toast_livro_atualizado">Book updated successfully!</string>
+    <string name="toast_livro_excluido">Book deleted successfully!</string>
+    <string name="erro_campos_obrigatorios">Please fill in all required fields.</string>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Gerenciador de Livros</string>
+    <string name="hint_titulo">Título</string>
+    <string name="hint_autor">Autor</string>
+    <string name="label_lido">Lido</string>
+    <string name="label_nao_lido">Não Lido</string>
+    <string name="button_salvar">Salvar Livro</string>
+    <string name="label_livros_cadastrados">Livros Cadastrados</string>
+    <string-array name="categorias_livros">
+        <item>Ficção</item>
+        <item>Técnico</item>
+        <item>Autoajuda</item>
+        <item>Outros</item>
+    </string-array>
+    <string name="title_activity_editar_livro">Editar Livro</string>
+    <string name="button_atualizar">Atualizar</string>
+    <string name="button_cancelar">Cancelar</string>
+    <string name="dialog_excluir_titulo">Excluir Livro</string>
+    <string name="dialog_excluir_mensagem">Tem certeza que deseja excluir este livro?</string>
+    <string name="dialog_excluir_sim">Sim</string>
+    <string name="dialog_excluir_nao">Não</string>
+    <string name="toast_livro_salvo">Livro salvo com sucesso!</string>
+    <string name="toast_livro_atualizado">Livro atualizado com sucesso!</string>
+    <string name="toast_livro_excluido">Livro excluído com sucesso!</string>
+    <string name="erro_campos_obrigatorios">Por favor, preencha todos os campos obrigatórios.</string>
+</resources>
